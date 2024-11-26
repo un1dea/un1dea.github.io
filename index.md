@@ -22,7 +22,7 @@ Here are some of the tools and languages I work with on a daily basis:
 
 - **Frontend**: HTML, CSS, JavaScript (Vue.js, React)
 - **Backend**: Node.js, Java, Spring Boot
-- **Databases**: MySQL, MongoDB
+- **Databases**: MySQL, MongoDB, MSSQL Server
 - **Cloud**: AWS, Azure, GCP
 - **Data Science**: Python, Pandas, TensorFlow
 
