@@ -1,6 +1,6 @@
 # Welcome to My GitHub Page
 
-Hi there! 👋 Welcome to my personal GitHub page where I showcase my projects, ideas, and contributions to the world of open source. Whether you're here to explore, collaborate, or learn, you’ve come to the right place. Let’s dive in! 🚀
+Hi there!! 👋 Welcome to my personal GitHub page where I showcase my projects, ideas, and contributions to the world of open source. Whether you're here to explore, collaborate, or learn, you’ve come to the right place. Let’s dive in! 🚀
 
 ---
 
