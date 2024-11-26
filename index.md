@@ -27,13 +27,3 @@ Here are some of the tools and languages I work with on a daily basis:
 - **Data Science**: Python, Pandas, TensorFlow
 
 ---
-
-## Blog & Resources 📚
-
-I write articles and share tutorials on various tech topics. You can read more on my [Blog](https://vae.life) or check out the following:
-
-- **Post 1**: [How to Build a Scalable Web App](#)
-- **Post 2**: [Introduction to Machine Learning with Python](#)
-- **Post 3**: [Deploying Your App on AWS: A Step-by-Step Guide](#)
-
----
